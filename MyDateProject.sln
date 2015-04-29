@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDateProject.DataModel.Tests", "MyDateProject.Tests\MyDateProject.DataModel.Tests.csproj", "{FB417744-911E-4DAF-BFBB-D750271A5512}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDateProject.DataModel", "MyDateProject.DataModel\MyDateProject.DataModel.csproj", "{E6F257D7-CD56-4489-AD28-A8EC67FC92DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB417744-911E-4DAF-BFBB-D750271A5512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB417744-911E-4DAF-BFBB-D750271A5512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB417744-911E-4DAF-BFBB-D750271A5512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB417744-911E-4DAF-BFBB-D750271A5512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6F257D7-CD56-4489-AD28-A8EC67FC92DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6F257D7-CD56-4489-AD28-A8EC67FC92DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6F257D7-CD56-4489-AD28-A8EC67FC92DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6F257D7-CD56-4489-AD28-A8EC67FC92DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
